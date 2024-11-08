@@ -362,7 +362,7 @@ img {
 .logo img {
   vertical-align: bottom;
   margin-right: 0.5rem;
-  width: 27px;
+  width: 57px;
 }
 
 /*-----------------------------
@@ -21143,6 +21143,7 @@ html:not(.no-js) [data-aos="fade-up"] {
 -----------------------------*/
 .defalut-footer {
   position: relative;
+  background-color: #faf7f7;
 }
 .defalut-footer.light::before {
   display: none;
