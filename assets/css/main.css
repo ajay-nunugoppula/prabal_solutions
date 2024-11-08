@@ -1,18 +1,5 @@
 @charset "UTF-8";
-/*----------------------------------------------------
-@File: Default Styles
-@Author: Hasan Sibakhi
-@URL: https://themeforest.net/user/orinostu
 
-This file contains the styling for the actual template, this
-is the file you need to edit to change the look of the
-template.
----------------------------------------------------- */
-/*=====================================================================
-@Template Name: Rakon Landing Page
-@Author: Hasan Sibakhi
-@Developed By: Hasan Sibakhi
-@Developer URL: https://dribbble.com/HasanSib
 /*===================================================================== */
 /*
     CSS Table of Sections
@@ -12892,8 +12879,20 @@ software_web
 }
 
 /*-----------------------------
+  Google Form
+-----------------------------*/
+
+  @media (max-width: 767px) {
+    #gform{
+      width:90% !important; 
+    }
+  }
+
+
+/*-----------------------------
   section_account
 -----------------------------*/
+
 .section_account .fixed_side_data {
   background: url("../img/custom/signup-3.png");
   background-repeat: no-repeat;
@@ -21717,4 +21716,3 @@ html:not(.no-js) [data-aos="fade-up"] {
   padding-top: 340px;
 }
 
-/*# sourceMappingURL=main.css.map */
