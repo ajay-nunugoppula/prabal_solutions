@@ -4689,7 +4689,8 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   }
   header .navbar {
     height: auto;
-    padding: 0.75rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
   }
   header .navbar-brand {
     color: #0b2238 !important;
@@ -5682,7 +5683,7 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
 
 @media (max-width: 991px ){
   .banner_title h1{
-  font-size: 1.87rem !important; 
+  font-size: 1.77rem !important; 
   }
 }
 
