@@ -5679,6 +5679,13 @@ header .navbar .navbar-collapse .nav_account.btn_demo3 .btn_sm_primary {
   margin-bottom: 1.875rem;
   margin-top: 1.875rem;
 }
+
+@media (max-width: 991px ){
+  .banner_title h1{
+  font-size: 1.87rem !important; 
+  }
+}
+
 .banner_title p {
   font-size: 1rem;
   font-weight: 400;
